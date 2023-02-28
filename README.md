@@ -25,9 +25,10 @@ Sou um curioso nato e procrastinador ocasional com 20 anos de experiência como 
 
 ### 🥰 Linguagens de programação que me sinto confortável
 
-- C/C++
+- C/C#
+- PHP
 - Python
-- Swift
+
 
 ### ❤️ Jogos favoritos
 
@@ -37,28 +38,10 @@ Sou um curioso nato e procrastinador ocasional com 20 anos de experiência como 
 
 ## Trabalhando em algo?
 
-SIM! Depois de um tempo longo, descobri um mini projeto que eu mesmo queria fazer. O projeto consiste em um app para Android que ajuda em dietas. Minha namorada quem deu a ideia, na verdade. Ela tem um pouco de dificuldade em se organizar com o que pode ou não pode comer quando se está seguindo a dieta, e eu pensei em ajudar ela. Contudo, ainda está na fase de planejamento, visto que a faculdade e o estágio estão exigindo até meus fins de semana.
+No momento me encontro estudando e me aprofundando em Web Development. Gosto muito da stack *Backend*, mas estou conseguindo me virar no front também! Estou mesclando o [The Odin Project](https://www.theodinproject.com) com o [Roadmap](https://www.roadmap.sh). 
 
 ## Faculdade? Estágio?
 
 Atualmente curso Ciências da computação no Instituto de Ensino Superior de Brasília (IESB). É oficialmente meu primeiro semestre, mas já carrego uns conhecimentos do meu antigo curso de Engenharia da Computação.
 
-Eu sou muito grato pelos estágios em que já participei, na área de desenvolvimento. Aprendi ***BASTANTE*** com meus colegas e encarregados e espero ter uma outra oportunidade de trabalhar em uma empresa acolhedora novamente
-
-<!--
-**O-Recruta/O-Recruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+Estou estagiando na marinha como desenvolvedor web, ajudando na migração de um sistema legado para tecnologias atuais. Trabalho desenvolvendo as telas e trabalhando no backend.
