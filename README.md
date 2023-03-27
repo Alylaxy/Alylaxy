@@ -42,6 +42,6 @@ No momento me encontro estudando e me aprofundando em Web Development. Gosto mui
 
 ## Faculdade? Estágio?
 
-Atualmente curso Ciências da computação no Instituto de Ensino Superior de Brasília (IESB). É oficialmente meu primeiro semestre, mas já carrego uns conhecimentos do meu antigo curso de Engenharia da Computação.
+Atualmente curso Ciências da computação no Instituto de Ensino Superior de Brasília (IESB). Estou no meu terceiro semestre, e ainda carrego uns conhecimentos do meu antigo curso de Engenharia da Computação.
 
-Estou estagiando na marinha como desenvolvedor web, ajudando na migração de um sistema legado para tecnologias atuais. Trabalho desenvolvendo as telas e trabalhando no backend.
+Estou estagiando na marinha como desenvolvedor web, ajudando na migração de um sistema legado para tecnologias atuais. Trabalho desenvolvendo as telas e o backend.
