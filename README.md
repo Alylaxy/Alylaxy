@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alylaxy&count_private=true&show_icons=true&theme=merko&include_all_commits=true&custom_title=Stats%20do%20Jão)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alylaxy&theme=dark&layout=compact&custom_title=Minhas%20linguagens%20mais%20usadas)
 ##
-  ![Snake animation](https://github.com/O-Recruta/O-Recruta/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Alylaxy/Alylaxy/blob/output/github-contribution-grid-snake.svg)
 ##
 # Hello, Dev!
 
