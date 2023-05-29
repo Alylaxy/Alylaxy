@@ -38,7 +38,7 @@ Sou um curioso nato e procrastinador ocasional com 20 anos de experiência como 
 
 ## Trabalhando em algo?
 
-No momento me encontro estudando e me aprofundando em Web Development. Gosto muito da stack *Backend*, mas estou conseguindo me virar no front também! Estou mesclando o [The Odin Project](https://www.theodinproject.com) com o [Roadmap](https://www.roadmap.sh). 
+No momento me encontro estudando e me aprofundando em Web Development. Gosto muito da stack *Backend*, portanto estou acompanhando o conteudo disponível da [Laracasts](https://laracasts.com). 
 
 ## Faculdade? Estágio?
 
