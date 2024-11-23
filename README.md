@@ -38,6 +38,7 @@ Sou um curioso nato e procrastinador ocasional com 23 anos de experiência como 
 - Risk of Rain 2
 - Dark Souls
 - Skyrim
+- Monster Hunter World (Lance FTW)
 
 ## Trabalhando em algo?
 
