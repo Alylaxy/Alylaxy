@@ -3,10 +3,6 @@
 
 ##
 
-![Snake animation](https://github.com/Alylaxy/Alylaxy/blob/output/github-contribution-grid-snake.svg)
-
-##
-
 # Hello, Dev!
 
 Não sei o que lhe traz ao meu perfil, mas já que está aqui, bem-vindo!
