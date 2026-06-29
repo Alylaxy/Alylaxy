@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alylaxy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=Alylaxy&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=0&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 ##
 
